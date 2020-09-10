@@ -1,0 +1,12 @@
+.color {
+    background-color: orange;
+}
+
+.navbar-nav a {
+    color: brown;
+    font-size: 20px;
+}
+
+.navbar-brand {
+    color: brown;
+}
